@@ -38,7 +38,40 @@ The original intention of writing this book is to help myself gain a deeper unde
   * **Database Programming**: Focuses on data storage, database statements, and related practices.
   * **Graphics Frameworks**: Explores both Text-based User Interfaces (TUI) and Graphical User Interfaces (GUI).
 
-> [Learning Path](Roadmap.md)
+> [Learning Path](C++ Learning Roadmap.md)
+
+## Tutorial Table of Contents
+
+### Core Language Features (Core C++)
+
+#### Preparation Phase
+- [Origins and Background](Language Core/Chapter-1/Chapter_01.md)
+- [Environment Setup](Language Core/Chapter-1/Chapter_02.md)
+- [Introduction to Debuggers](Language Core/Chapter-1/Chapter_03.md)
+
+#### Phase 1: Basic Syntax
+- [Basic Syntax](Language Core/Chapter-2/Chapter_01.md)
+- [Functions and Scope](Language Core/Chapter-2/Chapter_02.md)
+- [Arrays and Strings](Language Core/Chapter-2/Chapter_03.md)
+
+#### Phase 2: Object-Oriented Programming
+- [Classes and Objects](Language Core/Chapter-3/Chapter_01.md)
+- [Encapsulation and Access Control](Language Core/Chapter-3/Chapter_02.md)
+- [Inheritance and Polymorphism](Language Core/Chapter-3/Chapter_03.md)
+
+#### Phase 3: STL Standard Library
+
+#### Phase 4: Advanced Features
+
+#### Phase 5: System Programming
+
+#### Phase 6: Modern C++ and Engineering Practices
+
+### Network Programming
+
+### Database Programming
+
+### GUI Development (Graphical User Interface)
 
 ## Contributions
 
